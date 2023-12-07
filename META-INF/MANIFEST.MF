@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: CanteenA
+Synchronizable: false
+ArtifactVersion: 20230822.025513
+Type: Product
+Product-Creation-Date: 2023-Aug-22 00:00:00
+Version: 20230822.025513
+PRPC-Engine: 8.7.0 PRPC-8.7.0-163 ()
+Operator: Canteen Automation
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: CanteenA
+Archive-Type: PegaArchive
+Export-Date: 2023-Aug-22 12:27:55
+Pega-Codeset-Name: Customer
+Instance-Count: 4687
+
+Name: FileMetadata
+
+Name: customer/
+Pega-Codeset-Version: 06-01-01
+Pega-Codeset-Name: customer
+
