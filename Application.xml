@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<application name="CanteenA 20230822.025513" description="" >
+	<cardir name="customer" order="1"/>
+	<parfile name="CanteenAutomation_dbconfig.jar" order="2" dbconfig="true" />
+	<sarfile name="CanteenAutomation_schema.jar" order="3"/>
+	<parfile name="CanteenAutomation_rules.jar" order="4"/>
+</application>
